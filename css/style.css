@@ -1,6 +1,5 @@
 body {
   font-family: sans-serif;
-  font-size: 25px;
   background-color: lightblue;
   font-style: oblique;
   font-variant: normal;
@@ -22,4 +21,7 @@ img {
 #contacts {
   text-align: center;
   text-decoration: underline;
+}
+pre{
+  font-size: 60px;
 }
