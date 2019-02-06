@@ -23,5 +23,13 @@ img {
   text-decoration: underline;
 }
 pre{
-  font-size: 60px;
+  font-size: 0.5cm;
+}
+ol {
+  list-style-type: georgian;
+  font-weight: 500;
+}
+#home{
+  font-size: 25px;
+  font-style: normal;
 }
