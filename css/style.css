@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  font-size: 25px;
+}
+h2 {
+  text-align: center;
+  color: blue;
+}
+h3 {
+  text-align: center;
+  color: gray;
+}
